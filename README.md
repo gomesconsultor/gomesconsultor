@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Eduardo 
 
- 🌱 Estou estudando atualmente NestJs com Typescript & NextJs - FullStack
+ 🌱 Estou estudando atualmente Next & React com Typescript - FullStack
 - 📫 Contate-me no meu email: gomescpereira@gmail.com
 - 👋 Meu profile: https://myprofile-gomescpereira.vercel.app/
 - 😄 Pronouns: ele/dele
